@@ -19,8 +19,7 @@ I am a IT Student :computer: from Italy.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucaprotelli&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaprotelli&layout=compact)](https://github.com/lucaprotelli/github-readme-stats)
-
+<a href="https://app.daily.dev/lucaprotelli"><img src="https://api.daily.dev/devcards/6614235aa74f4b1bb51d731bd67e6f50.png?r=3p3" width="400" alt="Luca Protelli's Dev Card"/></a>
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
