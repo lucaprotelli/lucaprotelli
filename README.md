@@ -5,6 +5,8 @@ I am a IT Student :computer: from Italy.
 - 🌱 I’m currently learning a little bit of everything makes me fell funny
 - 📫 How to reach me: ...
 
+<a href="https://app.daily.dev/lucaprotelli"><img src="https://api.daily.dev/devcards/6614235aa74f4b1bb51d731bd67e6f50.png?r=3p3" width="250" alt="Luca Protelli's Dev Card"/></a>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div width="320px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -19,7 +21,6 @@ I am a IT Student :computer: from Italy.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucaprotelli&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/lucaprotelli"><img src="https://api.daily.dev/devcards/6614235aa74f4b1bb51d731bd67e6f50.png?r=3p3" width="400" alt="Luca Protelli's Dev Card"/></a>
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
