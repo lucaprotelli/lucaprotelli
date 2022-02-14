@@ -5,7 +5,7 @@ I am a IT Student :computer: from Italy.
 - 🌱 I’m currently learning a little bit of everything makes me fell funny
 - 📫 How to reach me: ...
 
-<a href="https://app.daily.dev/lucaprotelli"><img src="https://api.daily.dev/devcards/6614235aa74f4b1bb51d731bd67e6f50.png?r=3p3" width="250" alt="Luca Protelli's Dev Card"/></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucaprotelli&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div width="320px">
