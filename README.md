@@ -5,8 +5,6 @@ I am a IT Student :computer: from Italy.
 - 🌱 I’m currently learning a little bit of everything makes me fell funny
 - 📫 How to reach me: ...
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucaprotelli&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div width="320px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
